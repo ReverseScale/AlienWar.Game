@@ -7,3 +7,6 @@
 ```
 python alien_invasion.py
 ```
+
+效果图：
+![](http://og1yl0w9z.bkt.clouddn.com/17-12-15/5364763.jpg)
